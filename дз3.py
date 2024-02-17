@@ -12,3 +12,5 @@ a = a // 10
 fifth_number = a % 10
 
 print(first_number,second_number,third_number,fourth_number,fifth_number)
+
+
