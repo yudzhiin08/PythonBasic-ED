@@ -1,10 +1,14 @@
 a = int('12345')
-print("input",a)
-n = 0
-b=a
-while a > 0:
-    z = a % 10
-    a = a // 10
-    n = n * 10
-    n = n + z
-print ("output",n)
+print(a)
+
+first_number = a % 10
+a = a // 10
+second_number = a % 10
+a = a // 10
+third_number = a % 10
+a = a // 10
+fourth_number = a % 10
+a = a // 10
+fifth_number = a % 10
+
+print(first_number,second_number,third_number,fourth_number,fifth_number)
