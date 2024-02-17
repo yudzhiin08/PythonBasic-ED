@@ -19,14 +19,14 @@ print(int(number1))
 a = number1 //10
 aa = a // 10
 aaa = aa //10
-first_number = aaa % 10
-second_number= aa % 10
-third_number= a % 10
-fourth_number= number1 %10
+first_number1 = aaa % 10
+second_number1 = aa % 10
+third_number1 = a % 10
+fourth_number1 = number1 %10
 
-print(first_number)
-print(second_number)
-print(third_number)
-print(fourth_number)
+print(first_number1)
+print(second_number1)
+print(third_number1)
+print(fourth_number1)
 
 
