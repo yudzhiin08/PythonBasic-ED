@@ -1,4 +1,4 @@
-first_list = [1, ]
+first_list = [1,2 ,4,5,6 ]
 a = len(first_list)
 if  a%2 == 0 :
     print(first_list[:a//2])

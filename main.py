@@ -1,21 +1,7 @@
-
-number = 1234
-print(number // 1000)
-
-print(number % 10)
-
-
-
-first_number = number % 10
-number = number // 10
-second_number = number % 10
-print(second_number, first_number)
-
-x = 100
-digit = 7254
-left, right = divmod(digit, x)
-print(left, right)
-left, right = divmod(digit, 1)
-print(left, right)
-left, right = divmod(digit, 1000)
-print(left, right)
+#my_list = [10, 4, 5, 6, 9, 10]
+#if 4 == my_list[1]:
+#    print("4 in list")
+#if 10 in my_list:
+#    print("10 in list")
+#else:
+#    print("10 not in list")
